@@ -1,4 +1,4 @@
-<p align="right">
+<p align="middle">
   <img src=".assets/devika-avatar.png" alt="Devika Logo" width="250">
 </p>
 
